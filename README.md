@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C#, Unity3D
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me t.me/maximusglabar
+- 📫 How to reach me t.me/maximusglabar or maximusglabar@gmail.com
 
 <!---
 1y38a6/1y38a6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
